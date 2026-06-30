@@ -1,4 +1,4 @@
 # image-gallery
 
 ## Overview
-Simple gallery
+Simple gallery.
